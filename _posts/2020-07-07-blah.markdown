@@ -1,0 +1,11 @@
+---
+layout: post
+mathjax: true
+title:  "But another post tho"
+date:   2020-07-07 18:32:30 -0400
+categories: jekyll update
+---
+Does it work? $\pi$
+
+$$\pi^2$$
+

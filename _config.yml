@@ -24,7 +24,6 @@ description:
   A learning blog for computational neuroscience and applied math.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://zornsllama.github.io
-twitter_username: n/a
 github_username:  zornsllama
 
 # Build settings
